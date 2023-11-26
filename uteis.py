@@ -1,5 +1,3 @@
-#Alunos: Kleber Daniel Mattos Viana, Lucas Cardia Quintan Valle
-
 import os
 from menu import ShowMenu
 import pandas
